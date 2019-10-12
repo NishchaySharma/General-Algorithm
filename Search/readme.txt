@@ -1,1 +1,1 @@
-Create a file to search an element in linear time.
+1) Added Binary Search.
